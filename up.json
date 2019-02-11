@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "profile": "default",
+  "regions": [
+    "us-east-2"
+  ]
+}
